@@ -1,4 +1,4 @@
-# py_game_battleship
+# pygame-battleship
 파이썬을 이용해서 만든 간단한 배틀쉽 게임
 python3 main.py로 실행
 
